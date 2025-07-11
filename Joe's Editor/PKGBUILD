@@ -1,4 +1,4 @@
-pkgname=Joe's Editor
+pkgname="Joe's Editor"
 pkgver=4.6
 pkgrel=1
 pkgdesc="Joe's own editor"
